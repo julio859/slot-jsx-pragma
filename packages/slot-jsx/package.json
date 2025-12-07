@@ -1,6 +1,6 @@
 {
   "name": "slot-jsx",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "type": "module",
   "description": "Custom JSX pragma for slottable components with asChild pattern.",
   "main": "./dist/index.js",

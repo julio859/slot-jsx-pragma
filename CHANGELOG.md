@@ -1,3 +1,26 @@
+# v0.1.3 (Tue Dec 09 2025)
+
+#### 🐛 Bug Fix
+
+- add composable refs support (React 17+) [#14](https://github.com/jjenzz/slot-jsx-pragma/pull/14) ([@jjenzz](https://github.com/jjenzz))
+- allow slotted child to prevent slot events [#12](https://github.com/jjenzz/slot-jsx-pragma/pull/12) ([@jjenzz](https://github.com/jjenzz))
+
+#### 🏠 Housekeeping
+
+- update pnpm version [#17](https://github.com/jjenzz/slot-jsx-pragma/pull/17) ([@jjenzz](https://github.com/jjenzz))
+- freeze lockfile during ci [#16](https://github.com/jjenzz/slot-jsx-pragma/pull/16) ([@jjenzz](https://github.com/jjenzz))
+- update changelog versioning [#11](https://github.com/jjenzz/slot-jsx-pragma/pull/11) ([@jjenzz](https://github.com/jjenzz))
+
+#### 📝 Documentation
+
+- fix readme demo link [#15](https://github.com/jjenzz/slot-jsx-pragma/pull/15) ([@jjenzz](https://github.com/jjenzz))
+
+#### Authors: 1
+
+- Jenna Smith ([@jjenzz](https://github.com/jjenzz))
+
+---
+
 # v0.1.2 (Sun Dec 07 2025)
 
 #### 🏎 Performance

@@ -1,3 +1,21 @@
+# v0.1.4 (Fri Dec 12 2025)
+
+#### 🏠 Housekeeping
+
+- add MIT license [#21](https://github.com/jjenzz/slot-jsx-pragma/pull/21) ([@jjenzz](https://github.com/jjenzz))
+- initial ai review clean up [#19](https://github.com/jjenzz/slot-jsx-pragma/pull/19) ([@jjenzz](https://github.com/jjenzz))
+- reduce `any` types from ai output [#18](https://github.com/jjenzz/slot-jsx-pragma/pull/18) ([@jjenzz](https://github.com/jjenzz))
+
+#### 📝 Documentation
+
+- fix nested slottable examples [#20](https://github.com/jjenzz/slot-jsx-pragma/pull/20) ([@jjenzz](https://github.com/jjenzz))
+
+#### Authors: 1
+
+- Jenna Smith ([@jjenzz](https://github.com/jjenzz))
+
+---
+
 # v0.1.3 (Tue Dec 09 2025)
 
 #### 🐛 Bug Fix

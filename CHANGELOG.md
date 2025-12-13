@@ -1,3 +1,16 @@
+# v0.2.0 (Sat Dec 13 2025)
+
+#### 🚀 Enhancement
+
+- allow ejecting pragma to add custom `mergeProps` behaviour [#24](https://github.com/jjenzz/slot-jsx-pragma/pull/24) ([@jjenzz](https://github.com/jjenzz))
+- add ability to support render prop pattern [#22](https://github.com/jjenzz/slot-jsx-pragma/pull/22) ([@jjenzz](https://github.com/jjenzz))
+
+#### Authors: 1
+
+- Jenna Smith ([@jjenzz](https://github.com/jjenzz))
+
+---
+
 # v0.1.4 (Fri Dec 12 2025)
 
 #### 🏠 Housekeeping

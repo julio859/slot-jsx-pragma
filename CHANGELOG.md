@@ -1,3 +1,15 @@
+# v0.2.1 (Sat Dec 13 2025)
+
+#### 🐛 Bug Fix
+
+- simplify render prop API and fix prop merging [#25](https://github.com/jjenzz/slot-jsx-pragma/pull/25) ([@jjenzz](https://github.com/jjenzz))
+
+#### Authors: 1
+
+- Jenna Smith ([@jjenzz](https://github.com/jjenzz))
+
+---
+
 # v0.2.0 (Sat Dec 13 2025)
 
 #### 🚀 Enhancement

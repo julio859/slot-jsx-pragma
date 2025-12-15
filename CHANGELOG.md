@@ -1,3 +1,20 @@
+# v1.0.1 (Mon Dec 15 2025)
+
+#### 🏠 Housekeeping
+
+- add playwright tests for some initial coverage [#30](https://github.com/jjenzz/slot-jsx-pragma/pull/30) ([@jjenzz](https://github.com/jjenzz))
+
+#### 📝 Documentation
+
+- simplify nested slottable docs by using sibling slottable [#32](https://github.com/jjenzz/slot-jsx-pragma/pull/32) ([@jjenzz](https://github.com/jjenzz))
+- small docs tweaks [#31](https://github.com/jjenzz/slot-jsx-pragma/pull/31) ([@jjenzz](https://github.com/jjenzz))
+
+#### Authors: 1
+
+- Jenna Smith ([@jjenzz](https://github.com/jjenzz))
+
+---
+
 # v1.0.0 (Sun Dec 14 2025)
 
 #### 💥 Breaking Change

